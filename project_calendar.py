@@ -11,3 +11,5 @@ p.introduction = 'One of my friends suggested I make a calendar featuring some o
 p.overview = '''These are twelve photos of Geneva, arranged into a calendar using Powerpoint.  I might make an application that generates a calendar automatically, importing special days if I get the time.  Large (90 MB) copy available upon request.'''
 
 p.challenges.append(challenge_object('However this is made, it needs at least twelve pages.', 'I was under time pressure to make this before January 1st 2014, so I used Powerpoint for the sake of speed.', 'Resolved'))
+
+p.wordpress_text()
