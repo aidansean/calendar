@@ -1,6 +1,7 @@
 <?php
 $title = 'Photo calendar' ;
-include($_SERVER['FILE_PREFIX'] . '/_core/preamble.php') ;
+include_once('project.php') ;
+include_once($_SERVER['FILE_PREFIX'] . '/_core/preamble.php') ;
 ?>
 <div class="right">
   <div class="blurb">
